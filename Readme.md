@@ -1,4 +1,4 @@
-## Katherine Cole's Markdown
+## Katherine Cole's Repository
 
 This is a link to assignment 1: [Link](/exercises/1-foundations/exercise.ipynb)
 
