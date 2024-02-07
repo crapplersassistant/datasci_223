@@ -5,8 +5,7 @@
 > "A fool thinks himself to be wise, but a wise man knows himself to be a fool."
 > -Willy Shakespeare... allegedly.
 
-I am curious and distractable, squirrel!  Good guidance and direction is important to me, especially while I am a novice.  
-I like to spend time exploring the outdoors both with and without me dog.  In this regard, because of my experience I like to freestyle the guidance and direction part. 
-Learning to code is enjoyable, but the vast landscape of programming languages feels daunting at times.
-Of particular interest to me is pondering how one might model complex processes in the humanzee: systems biology, biochemistry, biophysics, biophysical chemistry, yes please.
+Fumbling fumbling fumbling along.
+
+Follow me to the SQL exercise... [exercise 3](https://github.com/crapplersassistant/datasci_223/blob/exercise3_branch/exercises/3-sql-queries/exercise.ipynb)
 
